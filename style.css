@@ -194,8 +194,8 @@
     top: 20%;
     margin: -8px 0 0 -8px;
     z-index: 1;
-    -webkit-animation: pegIt 3s infinite ease-in-out;
-    animation: pegIt 3s infinite ease-in-out;
+    -webkit-animation: pegIt 7s infinite ease-in-out;
+    animation: pegIt 7s infinite ease-in-out;
     -webkit-transform: rotate(75deg);
 }
 
